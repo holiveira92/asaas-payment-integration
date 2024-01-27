@@ -64,5 +64,3 @@ Docker
 docker container: php artisan test --coverage-html coverage/
 ```
 
-## Database Design Model MySQL
-![perfect-pay-test-db-model](https://github.com/holiveira92/perfectpay-test/assets/25705785/3e977289-784a-42cb-b465-dbde05a24f46)
